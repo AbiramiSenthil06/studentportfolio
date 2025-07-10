@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 40px 0;
+}
+
+section {
+  padding: 20px;
+  background: white;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px #aaa;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
